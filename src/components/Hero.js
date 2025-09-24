@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { useSpring, animated } from '@react-spring/web';
 import styled from 'styled-components';
 
 const HeroSection = styled.section`
@@ -158,12 +157,6 @@ const itemVariants = {
 };
 
 const Hero = () => {
-  const [springs, api] = useSpring(() => ({
-    from: { opacity: 0, transform: 'translateY(50px)' },
-    to: { opacity: 1, transform: 'translateY(0px)' },
-    config: { tension: 120, friction: 14 }
-  }));
-
   return (
     <HeroSection id="home">
       <FloatingElements>
