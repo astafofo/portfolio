@@ -37,3 +37,12 @@ git clone <your-repo-url>
 cd personal-portfolio
 npm install
 npm start
+
+### Build for Production
+
+npm run build
+
+# To serve production build locally
+npm install -g serve
+serve -s build
+
