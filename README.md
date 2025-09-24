@@ -1,4 +1,4 @@
-# 🎯 Game Security Research Portfolio
+# Portfolio
 
 A modern, animated React portfolio showcasing expertise in game security analysis, reverse engineering, and advanced gaming tools development. Built with cutting-edge web technologies and professional animations.
 
