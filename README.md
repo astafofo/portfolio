@@ -26,7 +26,7 @@ A modern React portfolio showcasing expertise in game security analysis, reverse
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/astafofo/portfolio.git
 cd personal-portfolio
 npm install
 npm start
