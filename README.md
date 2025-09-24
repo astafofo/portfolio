@@ -1,4 +1,4 @@
-# Portfolio
+# 🎯 Game Security Research Portfolio
 
 A modern, animated React portfolio showcasing expertise in game security analysis, reverse engineering, and advanced gaming tools development. Built with cutting-edge web technologies and professional animations.
 
@@ -437,7 +437,64 @@ git push origin main
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### **What This Means:**
+
+#### **✅ You Can:**
+- **Use** this portfolio as inspiration for your own projects
+- **Copy and modify** the code for personal or commercial use
+- **Distribute** modified versions
+- **Use in portfolios** or showcase projects
+- **Fork** and create your own version
+
+#### **✅ You Should:**
+- **Include the license** in your distributed version
+- **Credit the original** if using substantial portions
+- **Keep the copyright notice** intact
+
+#### **❌ You Cannot:**
+- **Claim** this work as entirely your own
+- **Remove** the license or copyright notices
+- **Hold the author** responsible for damages
+
+### **Why MIT License?**
+
+The MIT License is chosen because:
+- **Permissive**: Allows maximum flexibility for users
+- **Industry Standard**: Most popular open source license
+- **Portfolio Friendly**: Perfect for showcasing work
+- **Business Safe**: Can be used in commercial projects
+- **Future Proof**: No restrictions on future use
+
+### **For Your Portfolio:**
+
+This license means:
+- **Potential employers** can view and test your code
+- **Open source community** can learn from your implementation
+- **Other developers** can use your techniques and patterns
+- **You retain credit** for your original work
+- **No legal barriers** for job applications or showcases
+
+### **License Attribution:**
+
+If you use this code in your own projects, please include:
+
+```markdown
+Based on [Harly Ohara's Portfolio](https://github.com/YOUR_USERNAME/personal-portfolio)
+Licensed under MIT License
+```
+
+---
+
+**MIT License Benefits:**
+- 🎯 **Zero restrictions** on usage
+- 🚀 **Commercial use** allowed
+- 📚 **Educational use** encouraged
+- 🔄 **Modification** permitted
+- 🌍 **Global compatibility**
+
+*This license ensures your portfolio can be freely viewed, learned from, and used by the developer community while protecting your authorship rights.*
 
 ## 🙏 Acknowledgments
 
