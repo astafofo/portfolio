@@ -1,4 +1,4 @@
-# Game Security Research Portfolio
+# Research Portfolio
 
 A modern React portfolio showcasing expertise in game security analysis, reverse engineering, and advanced gaming tools development.
 
