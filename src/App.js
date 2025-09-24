@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { useInView } from 'react-intersection-observer';
-import { useSpring, animated } from '@react-spring/web';
+import { motion } from 'framer-motion';
 import styled, { ThemeProvider, createGlobalStyle } from 'styled-components';
 import Header from './components/Header';
 import Hero from './components/Hero';
