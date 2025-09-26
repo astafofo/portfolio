@@ -201,7 +201,7 @@ const About = () => {
         >
           <AboutImage variants={itemVariants}>
             <motion.img
-              src="https://media.discordapp.net/attachments/1409979614599708846/1420388050567041107/292b1c7f0.png?ex=68d536f4&is=68d3e574&hm=2ea7de6ef140380ae46247e633679388eeceba778bbe96efae58da0a980d69c6&=&format=webp&quality=lossless&width=938&height=938"
+              src="https://cdn.discordapp.com/attachments/1409979614599708846/1420388050567041107/292b1c7f0.png?ex=68d73134&is=68d5dfb4&hm=a66456f57d95cc15e61ec882e9c1a9ba6d8e69fc8e20d08381a3f79094e6bd98&"
               alt="About Harly Ohara"
               whileHover={{
                 scale: 1.05,
